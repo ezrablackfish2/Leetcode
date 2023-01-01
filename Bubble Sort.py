@@ -33,6 +33,6 @@ def countSwaps(a):
 
 if __name__ == "__main__":
 
-    a = [3, 2, 1]
+    a = [1, 5, 3, 9, 1, 2, 1]
 
     countSwaps(a)
